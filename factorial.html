@@ -1,0 +1,25 @@
+<!Doctype html>
+    <html>
+        <head>
+            <title>Factorial assignment</title>
+        </head>
+        <body>
+            assignment 3 <br>
+            Open the console  => ctr + shift + i
+        </body>
+        <script>
+            var number = prompt("Enter a number please");
+            var factorial = 1; 
+
+            if(number < 0){
+                console.log("Invalid entry");
+            }else{
+                for(var i = 1; i <= number; ++i){
+                    factorial *= i;
+                }
+                console.log(factorial);
+            }
+        </script>
+    </html>
+
+    
