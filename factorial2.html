@@ -1,0 +1,24 @@
+<!Doctype html>
+    <html>
+        <head>
+            <title>Factorial assignment using recursion</title>
+        </head>
+        <body>
+            assignment 3 <br>
+            Open the console  => ctr + shift + i
+        </body>
+        <script>
+            function factorial(number) { 
+
+                if (number === 0)
+                {
+                return 1;
+                }
+                return number * factorial(number-1);
+                    
+            }
+            console.log(factorial(prompt("Enter a number")));
+
+                       
+        </script>
+    </html>
