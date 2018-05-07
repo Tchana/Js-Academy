@@ -1,0 +1,87 @@
+button{
+    font-size: 24px;
+    padding: 2px;
+    margin-left: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    width: 90px;
+    height: 90px;
+    
+}
+
+#container{
+    width: 478px;
+    height: auto;
+    border:1px solid aquamarine; 
+    margin: 30px auto;
+}
+
+#input{
+    height: auto;
+    width: auto;
+    border:1px solid aquamarine;
+    background-color: rgba(158, 233, 191, 0);
+}
+
+#btndel{
+    background-color: rgb(189, 96, 96);
+    border-radius: 10px;
+    border-style: groove;
+}
+
+#btnAC{
+    background-color: rgb(64, 98, 121);
+    border-radius: 10px;
+    border-style: groove;
+}
+
+#btnmult{
+    background-color: rgb(61, 100, 80);
+    border-radius: 10px;
+    border-style: groove;
+}
+#btndiv{
+    background-color: rgb(61, 100, 80);
+    border-radius: 10px;
+    border-style: groove;
+}
+#btnadd{
+    background-color: rgb(61, 100, 80);
+    border-radius: 10px;
+    border-style: groove;
+}
+#btnsubt{
+    background-color: rgb(61, 100, 80);
+    border-radius: 10px;
+    border-style: groove;
+}
+
+#btnans{
+    background-color: rgba(189, 96, 96, 0.178);
+    color: red;
+    font-weight: bold;
+    border-radius: 10px;
+    border-style: groove;
+}
+
+#btneql{
+    background-color: rgba(110, 64, 121, 0.103);
+    border-radius: 10px;
+    border-style: groove;
+}
+
+#outputArea{
+    height: 90px;
+    font-size: 32px;
+    text-align:right;
+}
+
+#input{
+    height: 90px;
+    font-size: 32px;
+    
+}
+
+hr{
+    color:  aquamarine;
+}

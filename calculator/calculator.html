@@ -1,0 +1,54 @@
+<! DOCTYPE html>
+<html>
+    <head>
+        <title>Calculator</title>
+
+        <link rel = "stylesheet" type = "text/css" href = "calc.css" />
+
+    </head>
+    <body> 
+        <div id = "container">
+
+            <div id = "input">
+                <div id = "outputArea">0</div>
+            </div>
+                <div id = "buttonArea">
+                    <button id = "btn" name = "seven" onclick = "display(7)"> 7 </button>
+                    <button id = "btn" name = "eigth" onclick = "display(8)"> 8 </button>
+                    <button id = "btn" name = "nine" onclick = "display(9)"> 9 </button>
+                    <button id = "btn" name = "delete" onclick = "display(value)" value = "("> ( </button>
+                    <button id = "btnexp" name = "exponential" onclick = "display(value)" value = ")"> ) </button><br>
+                
+                
+                
+                    <button id = "btn" name = "four" onclick = "display(4)"> 4 </button>
+                    <button id = "btn" name = "five" onclick = "display(5)"> 5 </button>
+                    <button id = "btn" name = "six" onclick = "display(6)"> 6 </button>
+                    <button id = "btnmult" name = "multiply"  onclick = "display(value)" value = "*"> * </button>
+                    <button id = "btndiv" name = "divide"  onclick = "display(value)" value = "&#247"> &#247 </button> <br>
+                    
+
+                
+                    <button id = "btn" name = "one" onclick = "display(1)"> 1 </button>
+                    <button id = "btn" name = "two" onclick = "display(2)"> 2 </button>
+                    <button id = "btn" name = "three" onclick = "display(3)"> 3 </button>
+                    <button id = "btnadd" name = "addition" onclick = "display(value)" value = "+"> + </button>
+                    <button id = "btnsubt" name = "subtraction"  onclick = "display(value)" value = "-"> - </button> <br>
+                
+
+
+                
+                    <button id = "btn" name = "zero" onclick = "display(0)"> 0 </button>
+                    <button id = "btnpnt" name = "decimal"  onclick = "display(value)" value = "."> . </button>
+                    <button id = "btn" name = "allclear" onclick = "wipe()"> AC </button>                    
+                    <button id = "btnans" name = "answer" onclick = "display(value)" value = "%"> % </button>
+                    <button id = "btneql" name = "equal" onclick = "evaluation()"> = </button> <br>
+                </div>
+                
+
+        </div>
+        <script src = "calculator.js" type = "text/javascript"></script>
+
+    </body>
+
+</html>
