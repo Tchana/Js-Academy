@@ -18,7 +18,7 @@ function wipe(){
     
 }function evaluation(){
     outputArea.innerHTML = eval(outputArea.innerHTML);
-    console.log("evaluated")
+    console.log("evaluated");
 }
 
 

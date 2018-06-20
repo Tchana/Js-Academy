@@ -1,0 +1,45 @@
+
+     
+
+      <div id="container2">
+        
+          <h2>My Skills</h2>
+        
+
+        <div id="con3">
+          <img src="html.png" alt="HTML Skills" id="skill1">
+
+          
+            <p id="p1"> I studied html on my own, believing it could be a start. This helped me in my further researchs such 
+              as javascript. I have had help from some community leads who provided me with some videos and books 
+              that guided me all along.
+            </p>
+          
+          
+        </div>
+        
+        <div id="con4">
+            <img src="css1.png" alt="CSS Skills" id="skill2">
+
+            
+              <p id="p2">I studied CSS from beginning to end but as soon as i was done, i heard about css3 which is much 
+                more interesting. It is more of complicated than the actual css but always more amazing.
+              </p>
+           
+        </div>
+        
+
+        <div id="con5"></div>
+            <img src="js1.png" alt="JS Skills" id="skill3">
+
+            
+              <p id="p3">
+                javascript is another work in progress. Difficult to understand but as soon as you understand, it 
+                becomes very addictive. I'm as well eager to work on javascript projects.
+              </p>
+
+           
+        </div>
+
+
+      </div>

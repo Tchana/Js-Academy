@@ -1,0 +1,31 @@
+#container{
+    margin-left: 200px;
+    border-color: black;
+    border-style: solid;
+    width: 900px;
+    height: auto;
+
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    width: 500px;
+    height:40px;
+    text-align: center;
+}
+
+table{
+    border-color: black;
+    margin-left: 20px;
+}
+
+#searchbox{
+    margin-left: 20px;
+}
+
+#itembox{
+    margin-left: 20px;
+}

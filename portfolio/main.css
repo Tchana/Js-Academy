@@ -1,0 +1,141 @@
+#img10{
+    width: 1000px;
+    height: 500px;
+}
+
+#me{
+    width:200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-left: 100px;
+    margin-top: -80px;
+    border-style: groove;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#Training{
+    border: 1px solid skyblue;
+    width: 1000px;
+    height: 500px;   
+    border-style: groove; 
+    margin: 20px auto;
+}
+
+#con2{
+    height: 900px;
+}
+
+
+#aboutme{
+    border: 2px groove rgb(76, 76, 126);
+    border-top: none;
+    border-left: none;  
+    float: right; 
+    left: 300px;
+    
+    width: 800px;
+    margin-top: -100px;
+    margin-right: 140px;  
+    margin-bottom: 100  0px;
+    font-size: 24px;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 5px 5px gray;
+    border-bottom-right-radius: 10%;
+    border-top-right-radius: 10%;
+    padding: 10px; 
+    
+}
+
+h1{
+    text-align: center;
+    font-family: serif;
+    color: rgba(80, 80, 148, 0.445); 
+    font-size: 52px;
+}
+
+#con3{
+    border: 1px solid white;
+    height: auto;
+    margin: 20px auto;
+    width: auto;
+}
+#txt1{
+    float: right;
+    width: 400px;
+    margin: 60px 10px 20px 10px;
+    left: 100px;
+    font-size: 24px;
+    color: blue;
+    border-bottom: 1px groove rgba(209, 74, 11, 0.726);
+    border-bottom-left-radius: 30px;
+    box-shadow: 0px 5px rgba(209, 74, 11, 0.726);
+    padding: 10px;
+}
+
+#skill1{
+    margin: 20px 20px 20px 20px;
+    height: auto;
+    width: 700px;
+}
+
+#htmlskill{
+    margin: 40px 5px 15px 30px;
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
+#txt2{
+    float: left;
+    width: 400px;
+    margin: 60px 10px 20px 10px;
+    left: 100px;
+    font-size: 24px;
+    color: blue;
+    border-bottom: 1px groove rgb(102, 149, 177);
+    border-bottom-right-radius: 30px;
+    box-shadow: 0px 5px rgb(102, 149, 177);
+    padding: 10px;
+}
+
+#skill2{
+    /* margin: 20px 20px 20px 20px; */
+    height: auto;
+    width: 700px;
+    margin-left: 550px;
+}
+
+#cssskill{
+    margin: 40px 5px 15px 30px;
+    height: 200px;
+    width: 200px;
+}
+
+
+#txt3{
+    float: right;
+    width: 400px;
+    margin: 60px 10px 20px 10px;
+    left: 100px;
+    font-size: 24px;
+    color: blue;
+    border-bottom: 1px groove rgb(45, 139, 76);
+    border-bottom-left-radius: 30px;
+    box-shadow: 0px 5px rgb(45, 139, 76);
+    padding: 10px;
+}
+
+#skill3{
+    margin: 20px 20px 20px 20px;
+    height: auto;
+    width: 700px;
+}
+
+#jsskill{
+    margin: 40px 5px 15px 30px;
+    height: 200px;
+    width: 200px;
+}

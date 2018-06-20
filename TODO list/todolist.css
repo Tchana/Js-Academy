@@ -1,0 +1,54 @@
+#todolist{
+    border: 1px black groove;
+    margin-left: 400px;
+    height: 600px;
+    width: 400px;
+    background-color: beige;
+    position: relative;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-color: rgba(255, 123, 0, 0.863);
+}
+
+#searchbox{
+    height: 30px;
+    width: 190px;
+    text-align: center;
+    margin-right: 2px;
+    margin-top: 10px; 
+    border-radius: 10%;
+    right: 1px;
+}
+
+#taskbar{
+   border: 1px black groove;
+   background-color: rgba(255, 123, 0, 0.863);
+   height: 50px;
+   position: relative;
+   width: 399px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+}
+
+#header{
+    margin-left: 4px;
+    color: beige;
+    font-size: 28px;
+}
+
+#adddata{
+    background-color: rgba(255, 123, 0, 0.863);
+    height: 50px;
+    width: 50px;
+    font-size: 32px;
+    color: beige;
+    border-radius: 100%;
+    position: absolute;
+    bottom:20px;
+    right: 20px;
+}
+
+#list{
+    font-size: 28px;
+    color:  rgba(255, 123, 0, 0.863);
+}
